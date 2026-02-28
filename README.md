@@ -13,12 +13,15 @@ This repository contains a curated set of resources for learning French, organiz
   - [grammar.md](./A2/grammar.md): Sentence structures and verb conjugations.
   - [conversation.md](./A2/conversation.md): Phrases and dialogue examples.
   - [resources.md](./A2/resources.md): 20 curated reading and watching links.
-- **[B1/](./B1/)**: Intermediate level (Coming Soon).
-- **[B2/](./B2/)**: Upper-intermediate level (Coming Soon).
+- **[B1/](./B1/)**: Intermediate level resources.
+  - [vocabulary.md](./B1/vocabulary.md): Complex daily routines, professional life, and feelings.
+- **[B2/](./B2/)**: Upper-intermediate level resources.
+  - [vocabulary.md](./B2/vocabulary.md): Societal issues, abstract concepts, and formal language.
 
 ## How to Get Started
 
 1. Check your foundation in `A1/vocabulary.md`.
 2. Move to `A2/` for more complex grammar and daily conversation practice.
+3. Open this folder in Obsidian.
 
 Bonne chance !
