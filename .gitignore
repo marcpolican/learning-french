@@ -1,2 +1,8 @@
 .DS_Store
 .gemini/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+# Keep other obsidian settings but ignore local state
