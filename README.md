@@ -1,5 +1,7 @@
 # Learning French (A2 Level)
 
+In this repository, I used AI to generate the content for learning French.
+
 This repository contains a curated set of resources for learning French, specifically tailored for moving from an A1 foundation to A2 proficiency.
 
 ## Repository Structure
