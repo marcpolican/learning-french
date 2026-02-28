@@ -14,6 +14,7 @@ This repository contains a curated set of resources for learning French, organiz
   - [vocabulary.md](file:///Users/mp/Documents/LearningFrench/A2/vocabulary.md): Expanded word lists with examples.
   - [grammar.md](file:///Users/mp/Documents/LearningFrench/A2/grammar.md): Sentence structures and verb conjugations.
   - [conversation.md](file:///Users/mp/Documents/LearningFrench/A2/conversation.md): Phrases and dialogue examples.
+  - [resources.md](file:///Users/mp/Documents/LearningFrench/A2/resources.md): 20 curated reading and watching links.
 - **[B1/](file:///Users/mp/Documents/LearningFrench/B1/)**: Intermediate level (Coming Soon).
 - **[B2/](file:///Users/mp/Documents/LearningFrench/B2/)**: Upper-intermediate level (Coming Soon).
 
